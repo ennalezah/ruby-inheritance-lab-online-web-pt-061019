@@ -12,7 +12,7 @@ avi = Teacher.new
 avi.first_name = "Avi"
 avi.last_name = "Flombaum"
 
-jim = User.new("Jim", "Halpert")
+jim = User.new
 jim.first_name = "Jim"
 jim.last_name = "Halpert"
 
